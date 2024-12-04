@@ -1,4 +1,4 @@
-//WAP a C program to calculate area of rectangle
+//WAP in C  to calculate area of rectangle
 #include<stdio.h>
 #include<conio.h>
 
